@@ -8,5 +8,5 @@ console.log(name + " Boys Club")
 
 console.log("Height:")
 //console.log(parseInt(height) + 2) 
-var addition = console.log(parseInt(height) + 2)
-//console.log(addition)
+var adding = console.log(parseInt(height) + 2)
+console.log(adding)
