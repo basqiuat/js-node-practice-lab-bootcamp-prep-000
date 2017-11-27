@@ -2,7 +2,7 @@
 
 var name = "Billionaire"
 var height = "88"
-var Years In Business = 27
+var Years In Business; 27
 
 console.log("Name:")
 console.log(name + " Boys Club")
